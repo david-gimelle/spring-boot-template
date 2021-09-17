@@ -1,3 +1,16 @@
+.idea
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+.idea
+/out
+*.iws
+*.iml
+*.ipr
+
+.DS_Store
+
 # Compiled class file
 *.class
 
